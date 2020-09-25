@@ -1,0 +1,2 @@
+Log Written Date: 6/30/2020 11:20:04 AMError Message: Exception: TF51011: The specified iteration path does not exist. The error is caused by «'InsightsFirst2.0\Sprint13'».
+|||
